@@ -1,0 +1,18 @@
+C:\Users\fathu\source\repos\Meeting Attendance\bin\Debug\Meeting Attendance.exe.config
+C:\Users\fathu\source\repos\Meeting Attendance\bin\Debug\Meeting Attendance.exe
+C:\Users\fathu\source\repos\Meeting Attendance\bin\Debug\Meeting Attendance.pdb
+C:\Users\fathu\source\repos\Meeting Attendance\obj\Debug\Meeting Attendance.csproj.AssemblyReference.cache
+C:\Users\fathu\source\repos\Meeting Attendance\obj\Debug\Meeting_Attendance.Form_Login.resources
+C:\Users\fathu\source\repos\Meeting Attendance\obj\Debug\Meeting_Attendance.Properties.Resources.resources
+C:\Users\fathu\source\repos\Meeting Attendance\obj\Debug\Meeting Attendance.csproj.GenerateResource.cache
+C:\Users\fathu\source\repos\Meeting Attendance\obj\Debug\Meeting Attendance.csproj.CoreCompileInputs.cache
+C:\Users\fathu\source\repos\Meeting Attendance\obj\Debug\Meeting Attendance.exe
+C:\Users\fathu\source\repos\Meeting Attendance\obj\Debug\Meeting Attendance.pdb
+C:\Users\fathu\source\repos\Meeting Attendance\obj\Debug\Meeting_Attendance.Admin.resources
+C:\Users\fathu\source\repos\Meeting Attendance\obj\Debug\Meeting_Attendance.Operator.resources
+C:\Users\fathu\source\repos\Meeting Attendance\obj\Debug\Meeting_Attendance.ManajemenUser.resources
+C:\Users\fathu\source\repos\Meeting Attendance\obj\Debug\Meeting_Attendance.ManajemenAcara.resources
+C:\Users\fathu\source\repos\Meeting Attendance\obj\Debug\Meeting_Attendance.LaporanAdmin.resources
+C:\Users\fathu\source\repos\Meeting Attendance\obj\Debug\Meeting_Attendance.ManajemenPeserta.resources
+C:\Users\fathu\source\repos\Meeting Attendance\obj\Debug\Meeting_Attendance.DaftarHadir.resources
+C:\Users\fathu\source\repos\Meeting Attendance\obj\Debug\Meeting_Attendance.Peserta.resources
